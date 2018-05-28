@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.*;
 public class MemberDB extends DB{
 	List<Member> memberList;
-	
+	//...
 	
 	Scanner scanner = new Scanner(System.in);
 	String id = "";
