@@ -7,6 +7,8 @@ public class Member implements Data{
 	String ssn;
 	String tel;
 	boolean status;
+	
+		
 	public Member(String id, String password, String name, String ssn, String tel) {
 		this.id = id;
 		this.password = password;
