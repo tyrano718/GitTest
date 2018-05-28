@@ -8,4 +8,5 @@ public class Admin implements Data{
 	int tel;
 	
 	
+	
 }
