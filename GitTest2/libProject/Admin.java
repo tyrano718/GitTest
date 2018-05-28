@@ -6,4 +6,6 @@ public class Admin implements Data{
 	String name;
 	String ssn;
 	int tel;
+	
+	
 }
